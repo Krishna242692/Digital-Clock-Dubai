@@ -1,0 +1,14 @@
+/* This part positions the clock in the top-left with some padding */
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: transparent;
+}
+
+/* This styles the clock's text */
+#digital-clock {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 8vw;
+    font-weight: bold;
+    color: #333333;
+}
